@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simona</h1>
-<h3>I'm a detail-oriented professional with a passion for software testing, a strong motivation for continuous learning, and a proven ability to adapt and contribute effectively in dynamic environments. 👩‍💻</h3>
+<h3>I'm a detail-oriented professional with a passion for software testing, a strong motivation for continuous learning, and a proven ability to adapt and contribute effectively in dynamic environments. </h3>
 
-- 🔭 I’m currently working at Stippl as Software Tester
+- 👩‍💻 I’m currently working at Stippl as Software Tester
 
-- 🌱 I’m currently learning **test automation**
+- 🌱 I’m currently learning **test automation (Selenium, C#, Maestro Mobile**
 
-- ⚡ Fun fact, **...**
+- ⚡ Fun fact, **I catch details faster than they can slip by.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
