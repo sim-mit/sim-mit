@@ -3,7 +3,7 @@
 
 - 👩‍💻 I’m currently working at Stippl as Software Tester
 
-- 🌱 I’m currently learning **test automation (Selenium, C#, Maestro Mobile**
+- 🌱 I’m currently learning **test automation (Selenium, C#, Maestro Mobile)**
 
 - ⚡ Fun fact, **I catch details faster than they can slip by.**
 
