@@ -3,7 +3,7 @@
 
 - 👩‍💻 I’m currently looking for a challenging position in QA
 
-- 🌱 I’m currently learning **test automation (Selenium, Java)**
+- 🌱 I’m currently expanding my knowledge in **test automation (Playwright, JavaScript)**
 
 - ⚡ Fun fact, **I catch details faster than they can slip by.**
 
